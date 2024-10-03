@@ -1,0 +1,25 @@
+.img1 {
+    float: right;
+    max-width: 25%;
+    height: 300px;
+    object-fit: cover;
+}
+h2 {
+    background-color:#BAD2EA ;
+    color: #3678B7;
+}
+.submit {
+    background-color:#C0C0C0 ;
+    border: none;
+}
+table {
+    border-collapse: collapse;
+}
+
+tr:nth-child(even) {background-color: #D3D3D3}
+
+table, th,td {
+    border: 1px solid;
+    padding:5px ;
+    
+}
